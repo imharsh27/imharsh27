@@ -66,6 +66,7 @@
 * 💼 [LinkedIn](https://www.linkedin.com/in/harsh-bugaliya-93585b301)
 * 💻 [GitHub](https://github.com/Harshbugaliya)
 * 📧 Email: **[veharsh732@gmail.com](mailto:veharsh732@gmail.com)**
+* 💼 [Portfolio](https://imharsh27.github.io/meet-Harsh/)
 
 ---
 
