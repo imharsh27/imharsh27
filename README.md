@@ -57,6 +57,7 @@
 * 📊 Power BI for Beginners
 * 🤖 Google Cloud – Introduction to Generative AI
 * 📈 AI Powered Excel Dashboard (WsCube Tech)
+* 🔰 Forward Program(mckinsey)
 
 ---
 
