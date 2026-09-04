@@ -38,14 +38,14 @@
 
 ## 📊 Projects
 
-### 📌 Sales Performance & Profitability Dashboard
+### 📌 Sales Analytics Dashboard
 
 * 📊 Built an interactive dashboard using **Power BI**
 * 🧹 Cleaned & transformed data using **Power Query**
 * 📈 Used **DAX** for KPIs and advanced analysis
 * 🌍 Analyzed sales trends, revenue & regional performance
 
-👉 [Sales Performance Dashboard Project](https://github.com/imharsh27/Sales-Performance-Dashboard)
+👉 [Sales Analytics Dashboard Project](https://github.com/imharsh27/Sales-Performance-Dashboard)
 
 ---
 
